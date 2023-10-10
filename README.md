@@ -1,0 +1,1 @@
+I encountered no issues for this project's endpoint, however initially to begin with I wanted to make a faux "pet adoption" using the PetFinder API. After around 8 solid hours I gave up due to how much information is included in that API. Most of it all flew over my head unfortunately but I would like to return to it later because I truly love the idea.
